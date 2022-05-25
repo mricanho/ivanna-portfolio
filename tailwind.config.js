@@ -17,6 +17,9 @@ module.exports = {
       letterSpacing: {
         'wide': '0.03em',
       },
+      height: {
+        '568': '568px',
+      },
     plugins: [],
     }
   }
