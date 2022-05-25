@@ -523,144 +523,20 @@ Ensure the default browser behavior of the `hidden` attribute.
   bottom: 0px;
 }
 
-.left-72 {
-  left: 18rem;
-}
-
-.right-0 {
-  right: 0px;
-}
-
-.-right-4 {
-  right: -1rem;
-}
-
-.-right-40 {
-  right: -10rem;
-}
-
-.-left-40 {
-  left: -10rem;
-}
-
-.left-40 {
-  left: 10rem;
-}
-
-.left-80 {
-  left: 20rem;
-}
-
-.left-\[308\] {
-  left: 308;
-}
-
-.left-\[280\] {
-  left: 280;
-}
-
-.left-\[200\] {
-  left: 200;
-}
-
-.left-\[159\] {
-  left: 159;
-}
-
-.left-\[70\] {
-  left: 70;
-}
-
-.left-\[72\] {
-  left: 72;
-}
-
-.left-\[72px\] {
-  left: 72px;
-}
-
-.left-\[308px\] {
-  left: 308px;
-}
-
-.left-\[307px\] {
-  left: 307px;
-}
-
-.left-\[306px\] {
-  left: 306px;
-}
-
-.left-\[305px\] {
-  left: 305px;
+.bottom-\[320px\] {
+  bottom: 320px;
 }
 
 .left-\[300px\] {
   left: 300px;
 }
 
-.bottom-6 {
-  bottom: 1.5rem;
-}
-
-.bottom-16 {
-  bottom: 4rem;
-}
-
-.bottom-24 {
-  bottom: 6rem;
-}
-
-.bottom-40 {
-  bottom: 10rem;
-}
-
-.bottom-\[200px\] {
-  bottom: 200px;
-}
-
-.bottom-\[300px\] {
-  bottom: 300px;
-}
-
-.bottom-\[287px\] {
-  bottom: 287px;
-}
-
-.bottom-\[310px\] {
-  bottom: 310px;
-}
-
-.bottom-\[320px\] {
-  bottom: 320px;
-}
-
-.left-\[350px\] {
-  left: 350px;
-}
-
-.right-4 {
-  right: 1rem;
-}
-
-.-right-2 {
-  right: -0.5rem;
-}
-
-.-right-5 {
-  right: -1.25rem;
-}
-
-.-right-7 {
-  right: -1.75rem;
-}
-
-.-right-8 {
-  right: -2rem;
-}
-
 .-right-9 {
   right: -2.25rem;
+}
+
+.right-0 {
+  right: 0px;
 }
 
 .mx-auto {
@@ -740,6 +616,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 568px;
 }
 
+.h-\[428px\] {
+  height: 428px;
+}
+
 .w-96 {
   width: 24rem;
 }
@@ -750,6 +630,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-56 {
   width: 14rem;
+}
+
+.w-\[613px\] {
+  width: 613px;
 }
 
 .w-60 {
