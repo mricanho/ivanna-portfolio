@@ -539,6 +539,30 @@ Ensure the default browser behavior of the `hidden` attribute.
   right: 0px;
 }
 
+.bottom-5 {
+  bottom: 1.25rem;
+}
+
+.bottom-7 {
+  bottom: 1.75rem;
+}
+
+.bottom-1 {
+  bottom: 0.25rem;
+}
+
+.-bottom-1 {
+  bottom: -0.25rem;
+}
+
+.-bottom-6 {
+  bottom: -1.5rem;
+}
+
+.bottom-6 {
+  bottom: 1.5rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -598,6 +622,22 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .mt-32 {
   margin-top: 8rem;
+}
+
+.mr-3 {
+  margin-right: 0.75rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mb-56 {
+  margin-bottom: 14rem;
+}
+
+.mb-6 {
+  margin-bottom: 1.5rem;
 }
 
 .flex {
@@ -670,6 +710,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-bottom: 0.5rem;
 }
 
+.pb-6 {
+  padding-bottom: 1.5rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .text-right {
   text-align: right;
 }
@@ -692,6 +740,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-5xl {
   font-size: 64px;
+}
+
+.text-3xl {
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .font-bold {
@@ -717,6 +770,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-red-ivanna {
   --tw-text-opacity: 1;
   color: rgb(201 21 23 / var(--tw-text-opacity));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .shadow {
