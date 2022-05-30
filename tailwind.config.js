@@ -5,6 +5,7 @@ module.exports = {
       fontFamily: {
         sans: ['Arial', 'sans-serif'],
       },
+      important: true,
       fontSize: {
         xs: '13px',
         '9xl': '140px',
@@ -16,6 +17,9 @@ module.exports = {
       },
       letterSpacing: {
         wide: '0.03em',
+      },
+      width: {
+        '72': '298px',
       },
       height: {
         568: '568px',
