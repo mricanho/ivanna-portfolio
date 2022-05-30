@@ -14,6 +14,7 @@ module.exports = {
       },
       colors: {
         'red-ivanna': '#C91517',
+        'black-ivanna': '#161616',
       },
       letterSpacing: {
         wide: '0.03em',
