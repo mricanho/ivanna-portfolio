@@ -2,7 +2,7 @@
 
 Simple website tailored for UI/UX desginer Ivanna Jimenez, following the exact specifications of her design.
 
-![image](./screenshot.png)
+![image](./assets/images/screenshot.png)
 
 ## Live demo
 
