@@ -1,6 +1,6 @@
 # Ivanna Jimenez UI/UX Designer
 
-Simple website tailored for UI/UX desginer Ivanna Jimenez, following the exact specifications of her design.
+Simple website tailored for UI/UX designer Ivanna Jimenez, following the exact specifications of her design.
 
 ![image](./assets/images/screenshot.png)
 
@@ -22,7 +22,7 @@ Simple website tailored for UI/UX desginer Ivanna Jimenez, following the exact s
 - Cd into the directory - `cd ivanna-portfolio.git`
 - Run `npm install` to install all dependencies
 - On the console run `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` to scan your template files for classes and build your CSS.
-- Open your browser manually and copy paste http://localhost:3000
+- Open your browser manually and copy-paste http://localhost:3000
 
 ## Authors
 
