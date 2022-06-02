@@ -555,6 +555,50 @@ Ensure the default browser behavior of the `hidden` attribute.
   top: 0px;
 }
 
+.right-6 {
+  right: 1.5rem;
+}
+
+.right-16 {
+  right: 4rem;
+}
+
+.right-44 {
+  right: 11rem;
+}
+
+.-right-64 {
+  right: -16rem;
+}
+
+.-right-60 {
+  right: -15rem;
+}
+
+.-right-52 {
+  right: -13rem;
+}
+
+.right-40 {
+  right: 10rem;
+}
+
+.right-64 {
+  right: 16rem;
+}
+
+.right-72 {
+  right: 18rem;
+}
+
+.-bottom-2 {
+  bottom: -0.5rem;
+}
+
+.-bottom-3 {
+  bottom: -0.75rem;
+}
+
 .z-0 {
   z-index: 0;
 }
@@ -685,6 +729,18 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 1.25rem;
 }
 
+.mr-6 {
+  margin-right: 1.5rem;
+}
+
+.mb-12 {
+  margin-bottom: 3rem;
+}
+
+.mb-20 {
+  margin-bottom: 5rem;
+}
+
 .block {
   display: block;
 }
@@ -783,6 +839,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 25px;
 }
 
+.max-w-4xl {
+  max-width: 56rem;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -864,8 +924,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
+  font-size: 32px;
 }
 
 .text-2xl {

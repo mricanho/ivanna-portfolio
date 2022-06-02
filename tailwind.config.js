@@ -9,6 +9,7 @@ module.exports = {
       fontSize: {
         xs: '13px',
         '9xl': '140px',
+        '3xl': '32px',
         '4xl': '45px',
         '5xl': '64px',
       },
