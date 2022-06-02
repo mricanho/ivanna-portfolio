@@ -502,6 +502,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   }
 }
 
+.visible {
+  visibility: visible;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
 .fixed {
   position: fixed;
 }
@@ -783,6 +791,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 24.71px;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
 .w-96 {
   width: 24rem;
 }
@@ -837,6 +849,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-\[25px\] {
   width: 25px;
+}
+
+.w-screen {
+  width: 100vw;
 }
 
 .max-w-4xl {
@@ -1007,8 +1023,38 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 @media (min-width: 640px) {
+  .sm\:visible {
+    visibility: visible;
+  }
+
+  .sm\:invisible {
+    visibility: hidden;
+  }
+
   .sm\:mx-6 {
     margin-left: 1.5rem;
     margin-right: 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:visible {
+    visibility: visible;
+  }
+
+  .md\:invisible {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:invisible {
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 1536px) {
+  .\32xl\:invisible {
+    visibility: hidden;
   }
 }

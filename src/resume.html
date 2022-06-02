@@ -8,7 +8,7 @@
   <link href="../dist/output.css" rel="stylesheet">
 </head>
 <body class="z-0">
-  <nav class="bg-white shadow py-8 inset-x-0 fixed z-10">
+  <nav class="bg-white shadow py-8 inset-x-0 fixed z-10 invisible md:visible" id="nav-desktop">
     <div class="container flex items-center justify-between mx-auto">
       <div class="flex items-center">
         <a href="./index.html" class="text-xs font-bold"><p>PORTFOLIO</p></a>
@@ -21,6 +21,16 @@
         <a href="https://www.linkedin.com/in/ivanna-jimenez/" class="hover:font-bold mx-1 sm:mx-6 text-xs pb-2" target="_blank" rel="noopener" >
             <img class="" src="../assets/images/linkdn.png" alt="linkdn logo" />
         </a>
+      </div>
+    </div>
+  </nav>
+  <nav id="nav-mobile" class="visible md:invisible shadow inset-x-0 z-10">
+    <div class="container flex items-center justify-between mx-auto h-16">
+      <div class="items-center">
+        <p><span class="font-bold"><span class="italic">I</span>VANNA</span><span class="font-extralight"> JIMENEZ</span><span class="text-red-ivanna italic font-bold"> RESUME</span></p>
+      </div>
+      <div class="items-center">
+        <a href="./index.html" class="italic">BACK HOME</a>
       </div>
     </div>
   </nav>
